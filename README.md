@@ -44,25 +44,37 @@ Built with Next.js, React, TypeScript, PostgreSQL, Prisma and Claude, self-hoste
 
 **Languages**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,java,php,cpp" alt="TypeScript, JavaScript, Python, Java, PHP, C++" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,py,java,php,c,cpp,r" alt="TypeScript, JavaScript, Python, Java, PHP, C, C++, R" />
 
-**Frontend & mobile** (React, React Native / Expo, Next.js)
+**Frontend**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,redux,html,css" alt="React, Next.js, Tailwind CSS, Material UI, Redux, HTML, CSS" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,tailwind,materialui,bootstrap,redux,reactquery,html,css" alt="React, Next.js, Vite, Tailwind CSS, Material UI, Bootstrap, Redux, TanStack Query, HTML, CSS" />
 
-**Backend & databases**
+**Mobile**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,prisma,postgres,mysql,redis" alt="Node.js, Express, Django, Spring, Prisma, PostgreSQL, MySQL, Redis" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo" alt="React Native, Expo" />
+
+**Backend**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,djangorestframework,flask,spring,prisma" alt="Node.js, Express, Django, Django REST Framework, Flask, Spring, Prisma" />
+
+**Databases**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlserver,sqlite,mongodb,redis" alt="PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, Redis" />
 
 **Cloud & DevOps**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,vercel,git,github" alt="AWS, Azure, Docker, Nginx, Linux, Vercel, Git, GitHub" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,digitalocean,vercel,docker,nginx,linux,git,github" alt="AWS, Azure, DigitalOcean, Vercel, Docker, Nginx, Linux, Git, GitHub" />
 
 **Data & AI**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,huggingface,langchain,claude,chatgpt,pandas,numpy,jupyter,pbi,tableau" alt="PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, Claude, OpenAI, Pandas, NumPy, Jupyter, Power BI, Tableau" />
 
-Also: Claude and OpenAI APIs, LangChain, Hugging Face, Power BI, Agile / Scrum, UI/UX design.
+**Design**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ps,ai" alt="Photoshop, Illustrator" />
+
+Also: Fastify, Traefik, Keras, SQL, Agile / Scrum, team leadership, code review, UI/UX design.
 
 ---
 
