@@ -2,10 +2,10 @@
 
 ### Engineering Manager · Full Stack & Mobile Developer
 
-I design, build and ship web and mobile products end to end: UI/UX, frontend, APIs, databases and cloud deployment. For the last 5 years I've worked across the **TypeScript / React / React Native / Next.js** and **Python / Django** ecosystems, and today I also lead the engineering teams that build them.
+I design, build and ship web and mobile products end to end: UI/UX, frontend, APIs, databases and cloud deployment. For the last 5 years I've worked across the **TypeScript / React / React Native / Next.js / NestJS** and **Python / Django** ecosystems, and today I also lead the engineering teams that build them.
 
 - 🧭 **Engineering Manager at Appstronaute**, a French web & mobile development agency (remote, Marseille). I lead the teams delivering client apps, from scoping and architecture to code review, QA and release.
-- 🛠️ **Building [Asrar](https://asrar.software)**, my own line of AI-native products, designed and engineered end to end.
+- 🛠️ **Building [Asrar](https://asrar.software)**, my own line of products, designed and engineered end to end.
 - 🎓 Master's degree in **Big Data & Cloud Computing** (Hassan II University of Casablanca).
 - 🌍 Based in **Casablanca, Morocco**, open to remote work.
 - 🖥️ Portfolio: **[asrar.software](https://asrar.software)**
@@ -17,15 +17,15 @@ I design, build and ship web and mobile products end to end: UI/UX, frontend, AP
 
 ### What I'm building at Asrar
 
-Products that put AI to work, with a human approving anything that matters.
+Products I design, build and run myself, each one live.
 
-| Product | What it does | Try it |
-| --- | --- | --- |
-| **Dispatch** | A Kanban board where every card is a task for an AI agent: live traces, cited results, and approval before anything irreversible. | [Live demo](https://dispatch.asrar.software/demo) |
-| **Playfair** | Ask your data in plain language and get the chart, the number and the SQL behind it, pinned to dashboards. | [Live demo](https://playfair.asrar.software/demo) |
-| **Veille** | A regulatory watch agent for QSE consultants: reads every new legal text, cites every sentence, and drafts each client's monthly report. | [Live demo](https://veille.asrar.software/demo) |
+| Product | What it does | Built with | Open it |
+| --- | --- | --- | --- |
+| **Dispatch** | A Kanban board where every card is a task for an AI agent: live traces, cited results, and approval before anything irreversible. | Next.js, PostgreSQL, Prisma, Claude | [dispatch.asrar.software](https://dispatch.asrar.software) |
+| **Ready** | A mock interviewer that asks questions written for your role, out loud, then scores every answer, in English and French. | Next.js, PostgreSQL, Prisma, Claude | [ready.asrar.software](https://ready.asrar.software) |
+| **Dropwave** | Drop a file, get a private link to send anyone, no account needed. Uploads go straight to S3 and are checked by a Lambda before anyone can download them. | NestJS, Next.js, AWS (S3, Lambda, SES, EC2) | [dropwave.asrar.software](https://dropwave.asrar.software) |
 
-Built with Next.js, React, TypeScript, PostgreSQL, Prisma and Claude, self-hosted with Docker and Traefik.
+Deployed with Docker, Traefik and Cloudflare, on my own server and on AWS.
 
 ---
 
@@ -56,7 +56,7 @@ Built with Next.js, React, TypeScript, PostgreSQL, Prisma and Claude, self-hoste
 
 **Backend**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,djangorestframework,flask,spring,prisma" alt="Node.js, Express, Django, Django REST Framework, Flask, Spring, Prisma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,django,djangorestframework,flask,spring,prisma" alt="Node.js, NestJS, Express, Django, Django REST Framework, Flask, Spring, Prisma" />
 
 **Databases**
 
