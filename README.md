@@ -21,7 +21,7 @@ Products I design, build and run myself, each one live.
 
 | Product | What it does | Built with | Open it |
 | --- | --- | --- | --- |
-| **Dispatch** | A Kanban board where every card is a task for an AI agent: live traces, cited results, and approval before anything irreversible. | Next.js, PostgreSQL, Prisma, Claude | [dispatch.asrar.software](https://dispatch.asrar.software) |
+| **Revo** | AI code review for GitHub: Claude finds problems, a second pass tries to disprove each one, and only what survives is posted, with a score out of 100. Open source. | Next.js, BullMQ, PostgreSQL, Claude, AWS | [revo.asrar.software](https://revo.asrar.software) |
 | **Ready** | A mock interviewer that asks questions written for your role, out loud, then scores every answer, in English and French. | Next.js, PostgreSQL, Prisma, Claude | [ready.asrar.software](https://ready.asrar.software) |
 | **Dropwave** | Drop a file, get a private link to send anyone, no account needed. Uploads go straight to S3 and are checked by a Lambda before anyone can download them. | NestJS, Next.js, AWS (S3, Lambda, SES, EC2) | [dropwave.asrar.software](https://dropwave.asrar.software) |
 
